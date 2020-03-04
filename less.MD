@@ -1,12 +1,15 @@
 
-# Compreendendo LESS 
-<img src = "images/less.png" width = "100" height = "100">
+<img src = "images/less-sass-stylus.png" width = "200" height = "75">
+
+## Pré-processadores
 
 Os pré-processadores são ferramentas que acrescentam funcionalidades extras no CSS, funcionalidades que existem em linguagens de programação.
 Funcionalidades como: Variáveis, Funções e Mixins.
 Os pré-processadores mais populares são: SASS, Stylus e LESS.
 Todos possuem uma pequena diferença na Sintaxe e têm uma ou outra função diferente.
 Nesse artigo iremos abordar o LESS.
+
+#### Compreendendo LESS
 
 Todos sabemos que o CSS pode ser um pouco frustrante de escrever, especialmente quando se trata de projetos mais sérios, com milhares de linhas de código. 
 Você acaba duplicando as mesmas regras em todo o lugar e usando a pesquisa do seu editor e substituindo a cada mudança de cor. 
