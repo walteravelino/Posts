@@ -1,1 +1,1 @@
-* linguist-language=MarkDown
+*.md linguist-language=MarkDown
