@@ -1,5 +1,7 @@
-# Compreendendo LESS
-![](https://github.com/walteravelino/posts/images/less.png)
+
+# Compreendendo LESS 
+<img src = "images/less.png" width = "100" height = "100">
+
 Os pré-processadores são ferramentas que acrescentam funcionalidades extras no CSS, funcionalidades que existem em linguagens de programação.
 Funcionalidades como: Variáveis, Funções e Mixins.
 Os pré-processadores mais populares são: SASS, Stylus e LESS.
@@ -289,4 +291,9 @@ O aspecto negativo é que, se você usar um desses pré-processadores, precisar�
     * [Edição e compilação no navegador](http://less2css.org/)
 
 
-    [Github](https://github.com/walteravelino "all repos")
+    👤 **Walter Avelino**
+
+    - StackOverFlow [@walteravelino](https://stackoverflow.com/users/13001807/walter-avelino)
+    - Github: [@walteravelino](https://github.com/walteravelino)
+    - Linkedin: [@walteravelino](https://linkedin.com/in/walter-avelino-434197105)
+    - DEV: [@walteravelino](https://dev.to/walteravelino)
